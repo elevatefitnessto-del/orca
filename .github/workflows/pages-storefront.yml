@@ -1,5 +1,6 @@
 name: Deploy storefront
 # Pages is enabled with a workflow build. A push of this file republishes the storefront.
+# Redeploy attempt after the github-pages environment was updated.
 
 on:
   push:
