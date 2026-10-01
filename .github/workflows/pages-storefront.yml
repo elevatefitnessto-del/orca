@@ -1,4 +1,5 @@
 name: Deploy storefront
+# Pages is enabled with a workflow build. A push of this file republishes the storefront.
 
 on:
   push:
